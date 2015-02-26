@@ -10,5 +10,14 @@ and open the template in the editor.
 h1.name{
     color: red;
     text-align: center;
-    
+}
+th {
+    text-align: center;
+    font-weight: bold;
+}
+table, tr, td, th {
+    border: 1px solid black;
+}
+.tab td{
+    background-color: #666666;
 }
